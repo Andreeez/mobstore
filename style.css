@@ -1,0 +1,29 @@
+body {
+    margin: 0px 0px 0px 0px;
+    
+}
+
+#header {
+    height: 5em;
+    background-color: darkgray;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    color: green;
+    font-family: Arial, Helvetica, sans-serif;
+    
+}
+
+a {
+    text-decoration: none;
+    color: green;
+    font-size: 4em;
+}
+
+.headerLogo {
+    font-size: 4em;
+}
+#content {
+    display: flex;
+    height: 20em;
+}
